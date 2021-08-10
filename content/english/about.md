@@ -3,26 +3,20 @@ aliases:
 - about-us
 - about-hugo
 - contact
-author: Hugo Authors
+author: Bárbara Malcorra
 date: "2019-02-28"
 description: Hugo, the world's fastest framework for building websites
-title: About
+title: Sobre
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Olá, eu sou a Bárbara!
 
-Hugo makes use of a variety of open source projects including:
+Sou doutoranda em Linguística no Programa de Pós-Graduação em Letras da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS).
+Mestre em Linguística pela mesma instituição.
+Licenciada em Letras com habilitação Português e Inglês pela Universidade do Vale do Rio dos Sinos (UNISINOS).
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+Faço parte do Grupo de Estudos em Neurolinguística e Psicolinguística (GENP), coordenado pela Profa. Dra. Lilian Cristine Hübner.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Tenho interesse no processamento da linguagem no desenvolvimento típico e em quadros clínicos (Doença de Alzheimer, entre outras). Tenho especial interesse por programação e ciência de dados. Atualmente, trabalho em projetos que envolvem análise quantitativa de textos com o intuito de caracterizar padrões linguísticos em diferentes populações.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Para mais informações sobre meus projetos de pesquisa, meu currículo Lattes pode ser acessado [aqui](http://lattes.cnpq.br/8701993476723369).
